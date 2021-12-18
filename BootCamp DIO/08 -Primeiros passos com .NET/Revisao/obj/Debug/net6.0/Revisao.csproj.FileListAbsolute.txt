@@ -1,0 +1,15 @@
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
