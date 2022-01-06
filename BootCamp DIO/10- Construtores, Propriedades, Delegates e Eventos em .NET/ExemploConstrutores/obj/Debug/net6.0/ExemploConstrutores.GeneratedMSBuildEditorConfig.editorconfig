@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Revisao
-build_property.ProjectDir = c:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\08 -Primeiros passos com .NET\Revisao\
+build_property.RootNamespace = ExemploConstrutores
+build_property.ProjectDir = C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\

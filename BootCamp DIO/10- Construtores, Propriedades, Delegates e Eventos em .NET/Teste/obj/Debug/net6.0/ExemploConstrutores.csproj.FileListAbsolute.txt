@@ -1,0 +1,15 @@
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\Balcao 2\Documents\Git_Dio\dio-desafio-git\BootCamp DIO\10- Construtores, Propriedades, Delegates e Eventos em .NET\exemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
